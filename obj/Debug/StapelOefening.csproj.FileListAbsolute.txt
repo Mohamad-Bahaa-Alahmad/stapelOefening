@@ -1,0 +1,11 @@
+C:\Users\bahaa\source\repos\StapelOefening\bin\Debug\StapelOefening.exe.config
+C:\Users\bahaa\source\repos\StapelOefening\bin\Debug\StapelOefening.exe
+C:\Users\bahaa\source\repos\StapelOefening\bin\Debug\StapelOefening.pdb
+C:\Users\bahaa\source\repos\StapelOefening\obj\Debug\StapelOefening.csproj.AssemblyReference.cache
+C:\Users\bahaa\source\repos\StapelOefening\obj\Debug\StapelOefening.csproj.SuggestedBindingRedirects.cache
+C:\Users\bahaa\source\repos\StapelOefening\obj\Debug\StapelOefening.Form1.resources
+C:\Users\bahaa\source\repos\StapelOefening\obj\Debug\StapelOefening.Properties.Resources.resources
+C:\Users\bahaa\source\repos\StapelOefening\obj\Debug\StapelOefening.csproj.GenerateResource.cache
+C:\Users\bahaa\source\repos\StapelOefening\obj\Debug\StapelOefening.csproj.CoreCompileInputs.cache
+C:\Users\bahaa\source\repos\StapelOefening\obj\Debug\StapelOefening.exe
+C:\Users\bahaa\source\repos\StapelOefening\obj\Debug\StapelOefening.pdb
